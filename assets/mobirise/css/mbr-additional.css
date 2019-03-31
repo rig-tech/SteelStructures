@@ -1783,8 +1783,6 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  padding-top: 135px;
-  padding-bottom: 135px;
   background-image: url("../../../assets/images/rigtech-steel-structures-industrial-factories-1678x1119.jpg");
 }
 .cid-qTkA127IK8 H1 {
@@ -1857,6 +1855,14 @@ body {
     -webkit-flex-basis: 100%;
     padding-bottom: 2rem;
   }
+}
+.cid-rmi0obxvCF {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rmi0obxvCF .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-rmeAI88U2o {
   padding-top: 60px;
@@ -1943,10 +1949,54 @@ body {
     height: calc(100% - 56px);
   }
 }
+.cid-rmi12MNQQ8 {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rmi12MNQQ8 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rmi1qodK5w {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rmi1qodK5w .counter-container {
+  color: #767676;
+}
+.cid-rmi1qodK5w .counter-container ol {
+  margin-bottom: 0;
+  counter-reset: myCounter;
+}
+.cid-rmi1qodK5w .counter-container ol li {
+  margin-bottom: 1rem;
+}
+.cid-rmi1qodK5w .counter-container ol li {
+  list-style: none;
+  padding-left: .5rem;
+}
+.cid-rmi1qodK5w .counter-container ol li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  counter-increment: myCounter;
+  content: counter(myCounter);
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 40px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
 .cid-rmeQRcxcJ6 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rmeQRcxcJ6 .mbr-iconfont {
   font-size: 48px;
