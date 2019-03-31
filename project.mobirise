@@ -25,7 +25,7 @@
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#ff4343",
@@ -53,8 +53,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Rig-tech Steel Construction",
-        "meta_descr": "Properties of structural steel. Steel structure building. Steel structures design. Structural steel products. Properties of structural steel. Steel in construction. Structural steel types. Types of steel structures. ",
+        "title": "Steel Structures Design, Fabrication & Erection | Rig-tech ",
+        "meta_descr": "We get your structure designed & built done by the time agreed. You pay what’s on the quotation. No ‘surprise’ extras added on after-the-fact. Professional project planning, site and project management. Professional drawings for your approval. No half-baked structures with no drawings. Learn more about the properties of structural steel, steel structure construction, building and design and types of steel structures. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
