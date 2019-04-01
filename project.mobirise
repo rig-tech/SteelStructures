@@ -45,7 +45,7 @@
     "siteUrl": "https://steelstructures.website/",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "google-analytics": ""
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-137451557-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-137451557-1');\r\n</script>"
   },
   "pages": {
     "index.html": {
